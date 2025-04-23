@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashaProfProgrammer
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ...
 
